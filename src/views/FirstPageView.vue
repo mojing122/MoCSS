@@ -6,9 +6,9 @@
             <HelloWorld msg="Hello CSS!" />
 
             <nav>
-                <RouterLink to="/">Home</RouterLink>
-                <RouterLink to="/about">About</RouterLink>
-                <RouterLink to="/deatil/bottombar">Deatil</RouterLink>
+                <RouterLink to="/">主页</RouterLink>
+                <RouterLink to="/about">关于</RouterLink>
+                <RouterLink to="/deatil/bottombar">项目</RouterLink>
             </nav>
         </div>
     </header>
